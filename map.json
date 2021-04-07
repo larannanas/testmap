@@ -1012,7 +1012,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/hospital.png",
+         "image":"hospital.png",
          "imageheight":800,
          "imagewidth":256,
          "margin":0,
@@ -1080,7 +1080,7 @@
         {
          "columns":16,
          "firstgid":521,
-         "image":"..\/lab1.png",
+         "image":"lab1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1301,7 +1301,7 @@
         {
          "columns":16,
          "firstgid":777,
-         "image":"..\/tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
+         "image":"tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1648,7 +1648,7 @@
         {
          "columns":16,
          "firstgid":1033,
-         "image":"..\/police_station_by_nicnubill_d9892fb.png",
+         "image":"police_station_by_nicnubill_d9892fb.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2013,7 +2013,7 @@
         {
          "columns":16,
          "firstgid":1289,
-         "image":"..\/storage.png",
+         "image":"storage.png",
          "imageheight":560,
          "imagewidth":544,
          "margin":16,
@@ -2054,7 +2054,7 @@
         {
          "columns":16,
          "firstgid":1561,
-         "image":"..\/st\u00fchle.png",
+         "image":"st\u00fchle.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2329,7 +2329,7 @@
         {
          "columns":12,
          "firstgid":1817,
-         "image":"..\/schilder.png",
+         "image":"schilder.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -2342,7 +2342,7 @@
         {
          "columns":16,
          "firstgid":1913,
-         "image":"..\/lager3.png",
+         "image":"lager3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2355,7 +2355,7 @@
         {
          "columns":16,
          "firstgid":2169,
-         "image":"..\/lab2.png",
+         "image":"lab2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2405,7 +2405,7 @@
         {
          "columns":16,
          "firstgid":2425,
-         "image":"..\/cones.png",
+         "image":"cones.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
